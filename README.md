@@ -1,2 +1,2 @@
-# deep-learning
-Working on the fundamentals of deep learning by building basic projects and implementing a few concepts from scratch in this repo.
+# Implementations from scratch
+Working on the fundamentals by building basic projects and implementing a few concepts from scratch in this repo.
